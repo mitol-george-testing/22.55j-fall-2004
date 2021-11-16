@@ -1,0 +1,45 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Nuclear Physics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Electromagnetism"
+    ],
+    [
+      "Science",
+      "Chemistry",
+      "Physical Chemistry"
+    ],
+    [
+      "Engineering",
+      "Nuclear Engineering",
+      "Radiological Engineering"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "8973dde0-079f-d8dc-eaed-d6745984d99e"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Principles of Radiation Interactions",
+  "course_description": "The central theme of this course is the interaction of radiation with biological material. The course is intended to provide a broad understanding of how different types of radiation deposit energy, including the creation and behavior of secondary radiations; of how radiation affects cells and why the different types of radiation have very different biological effects. Topics will include: the effects of radiation on biological systems including DNA damage; in vitro cell survival models; and in vivo mammalian systems. The course covers radiation therapy, radiation syndromes in humans and carcinogenesis. Environmental radiation sources on earth and in space, and aspects of radiation protection are also discussed. Examples from the current literature will be used to supplement lecture material.\n",
+  "department_numbers": [
+    "22",
+    "HST"
+  ],
+  "extra_course_numbers": "HST.560J",
+  "primary_course_number": "22.55J",
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
